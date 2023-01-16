@@ -1,5 +1,7 @@
 # OptimizationProjects
 Finding the best solution from a set of possible solutions, based on some criteria. 
 
-Problemns:
+Problems:
 - Phone Production
+- Object in Boxes
+- 3
