@@ -3,5 +3,5 @@ Finding the best solution from a set of possible solutions, based on some criter
 
 Problems:
 - Phone Production
-- Object in Boxes
-- 3
+- Objects in Boxes
+- ...
